@@ -1,0 +1,19 @@
+Acme Robotics - Internal FAQ (Sample Document)
+
+Q: What are the standard working hours?
+A: Core hours are 10:00 AM to 4:00 PM. Employees may start between 8:00 AM and 10:00 AM.
+
+Q: How many paid leave days do employees get?
+A: Full-time employees receive 24 paid leave days per year, plus 12 public holidays.
+
+Q: What is the remote work policy?
+A: Employees may work remotely up to 3 days per week with manager approval.
+
+Q: Who do I contact for IT support?
+A: Email it-help@acmerobotics.example or use the #it-support channel. Response time is under 4 hours on business days.
+
+Q: What is the reimbursement limit for learning courses?
+A: Each employee can claim up to 500 USD per year for approved online courses and certifications.
+
+Q: What is the notice period?
+A: The notice period is 30 days for all full-time roles.
